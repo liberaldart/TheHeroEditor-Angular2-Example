@@ -162,5 +162,11 @@ Answer: http://stackoverflow.com/questions/12694530/what-is-typescript-and-why-w
 
 My notes: TypeScript could be nice to have as it provides type checking during compilation. It's adopted by Angular2 for a reason.
 
+---
+Learnt about multiline literals (using back ticks)
 
+Learnt how to use one way binding by using {{}}. Also learnt to use [(ngModel)] for two way binding.
 
+[Follow tutorial link](https://angular.io/docs/ts/latest/tutorial/toh-pt1.html)
+
+---
