@@ -149,13 +149,14 @@ which is easier to read; this file is excluded from source control.
 
 Shut it down manually with Ctrl-C.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~All that's written above comes from parent repository
+---
+All that's written above comes from parent repository
 My notes:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---
 What I learnt?
 
 FAQs:
-FAQ 1: Why TypeScript and not JavaScript?
++ FAQ 1: Why TypeScript and not JavaScript?
 Answer: http://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript
 My notes: TypeScript could be nice to have as it provides type checking during compilation. It's adopted by Angular2 for a reason.
 
